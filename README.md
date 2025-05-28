@@ -28,4 +28,11 @@ The model achieved an accuracy of over 87%, which indicates strong performance. 
 
 In conclusion, this project provided hands-on experience with NLP, text preprocessing, and classification using machine learning. From data collection to model evaluation, I went through every essential step of an NLP pipeline. Learning through real datasets and addressing practical issues like encoding and preprocessing gave me a deeper understanding of how sentiment analysis systems are built. This project not only strengthened my Python and machine learning skills but also demonstrated how NLP can be applied effectively to understand human emotions and opinions through text.
 
+![Image](https://github.com/user-attachments/assets/c7a8e788-43c5-4324-b195-d1a46f43c2b8)
+
+![Image](https://github.com/user-attachments/assets/3bd451db-0359-4b4f-bc4e-e9c7e971061b)
+
+![Image](https://github.com/user-attachments/assets/311ded9b-0e6b-4528-9f42-e3771895db16)
+
+![Image](https://github.com/user-attachments/assets/2ec57aee-95e9-4ec1-afaa-1a660d537219)
 
